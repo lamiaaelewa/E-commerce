@@ -11,7 +11,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "start": "vite",
-    "build": "react-scripts build"
+    "build": "vite build"
   },
   "dependencies": {
     "aos": "^2.3.4",
