@@ -4,7 +4,7 @@
 ## Preview
 
 ```md
-![Preview](./Screenshot.png)
+![Preview](https://github.com/lamiaaelewa/E-commerce/blob/main/Screenshot.png?raw=true)
 ```
 
 ## Technologies Used
