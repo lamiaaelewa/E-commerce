@@ -4,7 +4,7 @@
 ## Preview
 
 ```md
-![Preview](assets/website/Screenshot.png)
+![Preview](./assets/website/Screenshot.png)
 ```
 
 ## Technologies Used
