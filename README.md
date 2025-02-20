@@ -20,11 +20,11 @@ To get started with this project, follow these steps:
 ### Steps
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/lamiaaelewa/e-commerce.git
+   git clone https://github.com/lamiaaelewa/E-commerce.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd e-commerce
+   cd E-commerce
    ```
 3. Install dependencies:
    ```bash
