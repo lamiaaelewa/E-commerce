@@ -1,12 +1,6 @@
 # E-Commerce Project
  -**Snee is an e-commerce platform designed for sneaker enthusiasts. Whether you're into trendy, limited-edition, or classic sneakers, we’ve got the perfect pair for you! Browse our collection and step up your sneaker game. 🚀**
 
-## Preview
-
-```md
-![Preview](https://github.com/lamiaaelewa/E-commerce/blob/main/Screenshot.png?raw=true)
-```
-
 ## Technologies Used
 - **React.js**: Frontend framework for building UI components.
 - **Vite**: Lightning-fast development environment.
